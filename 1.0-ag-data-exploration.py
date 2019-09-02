@@ -2,11 +2,6 @@
 """
 Created on Sun Nov 18 20:25:52 2018
 
-Data exploration and cleaning and stuff,
-
-I highly doubt this is the optimal way to do anything that im about to do
-The best i can hope for is that its atleast somewhat correct 
-
 @author: Andrew Garvey
 """
    
@@ -56,12 +51,11 @@ banks.columns
 banks.values
 
 
-## CLEANING PLAN 
-# Going to be super simple because i don't know what im doing, may potentially have to do this later, in a more complicated way
+# CLEANING PLAN 
 # 1. Drop any rows that have NaN (ideally we'd impute them)
 # 2. Remove the Year (ideally i'd like to shift it by 1 as i think it'd more predictive, or atleast more interesting)
 # 3. Oversample (ideally we'd SMOTE)
-# 4. Normalize the rows (i'm not even gonna bother rn)
+
 
 # 1.Drop entire rows with any NaN
 banks1 = banks.dropna()
