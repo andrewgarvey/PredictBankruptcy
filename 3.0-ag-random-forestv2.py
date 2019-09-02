@@ -5,7 +5,7 @@ Created on Sat Nov 24 00:20:09 2018
 @author: 9atg
 """
 
-#IMPORT ALL OF THE THINGS !!!!!!11
+#IMPORT 
 import os
 import pandas as pd 
 import numpy as np 
