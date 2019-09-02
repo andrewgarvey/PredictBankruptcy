@@ -1,4 +1,4 @@
-# Predict Bankrupcy of companies, Numerai Finance Models
+# Predict Bankrupcy of companies
 
 Author: Andrew Garvey, (MMAI Group Project)
 
