@@ -4,7 +4,7 @@ Author: Andrew Garvey, (MMAI Group Project)
 
 Date: Nov-Dec 2018 
 
-Languages: Python, Jupyter Notebook
+Languages: Python
 
 ---
 Purpose:
