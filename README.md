@@ -1,7 +1,5 @@
 # Predict Bankrupcy of companies
 
-Author: Andrew Garvey, (MMAI Group Project)
-
 Date: Nov-Dec 2018 
 
 Languages: Python
