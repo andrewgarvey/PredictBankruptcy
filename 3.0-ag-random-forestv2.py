@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Nov 24 00:20:09 2018
-
-@author: 9atg
 """
 
 #IMPORT 
