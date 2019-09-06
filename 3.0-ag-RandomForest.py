@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 21 23:32:58 2018
-For Learning Mostly
-@author: 9atg
 """
 
 #setup basic
