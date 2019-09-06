@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Nov 18 20:25:52 2018
-
-@author: Andrew Garvey
 """
    
 #setup 
